@@ -1,0 +1,15 @@
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\bin\Debug\net6.0\FootLuck.exe
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\bin\Debug\net6.0\FootLuck.deps.json
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\bin\Debug\net6.0\FootLuck.runtimeconfig.json
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\bin\Debug\net6.0\FootLuck.dll
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\bin\Debug\net6.0\FootLuck.pdb
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\FootLuck.csproj.AssemblyReference.cache
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\FootLuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\FootLuck.AssemblyInfoInputs.cache
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\FootLuck.AssemblyInfo.cs
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\FootLuck.csproj.CoreCompileInputs.cache
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\FootLuck.dll
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\refint\FootLuck.dll
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\FootLuck.pdb
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\FootLuck.genruntimeconfig.cache
+C:\Users\amilt\OneDrive\Documentos\Projeto_Jogo\ConsoleApp1\obj\Debug\net6.0\ref\FootLuck.dll

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "FootLuck": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
